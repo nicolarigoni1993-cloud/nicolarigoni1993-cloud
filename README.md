@@ -63,6 +63,8 @@ A responsive website project focused on clean layout, modern front-end structure
 
 ## Contact
 
-Email: [nicolarigoni1993@gmail.com](mailto:nicolarigoni1993@gmail.com)
-LinkedIn: https://www.linkedin.com/in/nicola-rigoni-b9443a367
-GitHub: https://github.com/nicolarigoni1993-cloud
+## Contact
+
+- Email: nicolarigoni1993@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nicola-rigoni-b9443a367
+- GitHub: https://github.com/nicolarigoni1993-cloud
