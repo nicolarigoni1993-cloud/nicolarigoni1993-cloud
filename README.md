@@ -61,7 +61,6 @@ A responsive website project focused on clean layout, modern front-end structure
 
 ---
 
-## Contact
 
 ## Contact
 
