@@ -1,45 +1,44 @@
 # Hi, I'm Nicola Rigoni
 
-I'm a Junior Web Developer and Computer Engineering student based in Italy.
+I'm a Web Developer and Computer Engineering student based in Italy.
 
-I build modern websites, web apps and practical business tools using technologies such as React, TypeScript, JavaScript, Python and Supabase.
+I build, improve and debug websites, web applications and practical business tools using React, TypeScript, JavaScript, Supabase, PostgreSQL, Python and FastAPI.
 
-My goal is to create useful digital solutions for small businesses, professionals and teams, with a focus on clean interfaces, organized data and practical workflows.
+I especially work on existing codebases, focused bug fixes, responsive improvements, API integrations and practical features that solve real problems.
 
 ---
 
 ## What I work on
 
-* Responsive websites and landing pages
-* Front-end interfaces
-* Web apps
-* Internal business tools
-* Dashboards and management systems
-* Data organization and workflow tools
+- React and TypeScript web applications
+- Bug fixing and maintenance
+- Responsive websites and mobile usability
+- Supabase and PostgreSQL integrations
+- Authentication, forms and user-specific data
+- REST API integrations
+- Python and FastAPI backends
+- Dashboards and internal business tools
+- Website testing and QA
+- Basic web configuration and security checks
 
 ---
 
 ## Main technologies
 
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* React
-* Python
-* FastAPI
-* Supabase
-* Git
-* GitHub
-* Vercel
-
----
-
-## Portfolio
-
-You can find an overview of my projects here:
-
-[View my portfolio](https://github.com/nicolarigoni1993-cloud/portfolio)
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Python
+- FastAPI
+- Supabase
+- PostgreSQL
+- REST APIs
+- Git
+- GitHub
+- Vite
+- Vercel
 
 ---
 
@@ -47,20 +46,41 @@ You can find an overview of my projects here:
 
 ### Remember – Productivity Web App
 
-A productivity web app built with React, TypeScript and Supabase to manage reminders, notes, appointments, deadlines and personal planning.
+A productivity web application built with React, TypeScript and Supabase for managing reminders, notes, appointments, shifts, finance and personal planning.
 
-The full repository is private because it contains production code and sensitive configuration, but a public overview is available in my portfolio.
+The production repository is private, while a public project overview is available in my portfolio.
 
-### Business Management System – Python Internal Tool
+### Business Management System – Python / FastAPI
 
-An internal management system built with Python and FastAPI to organize operational data, documents, schedules and workflows.
+An internal business management application built with Python and FastAPI to organize operational data, documents, schedules, staff information and recurring workflows.
 
-### Website Project
+### I Rapaci di Eddy – Responsive Website
 
-A responsive website project focused on clean layout, modern front-end structure and mobile-friendly design.
+A responsive multi-page website built with HTML, CSS and JavaScript, including mobile-friendly navigation, image galleries, content sections and production deployment.
 
 ---
 
+## Portfolio
+
+More details and screenshots of my projects:
+
+[View my portfolio](https://github.com/nicolarigoni1993-cloud/portfolio)
+
+---
+
+## Availability
+
+Available for remote freelance and contract work, including:
+
+- Small bug fixes
+- Feature implementation
+- Website improvements
+- Web application development
+- API integrations
+- Business tools
+- Ongoing maintenance
+
+---
 
 ## Contact
 
