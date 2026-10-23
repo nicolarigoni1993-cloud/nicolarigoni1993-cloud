@@ -4,22 +4,22 @@ I'm a Web Developer and Computer Engineering student based in Italy.
 
 I build, improve and debug websites, web applications and practical business tools using React, TypeScript, JavaScript, Supabase, PostgreSQL, Python and FastAPI.
 
-I especially work on existing codebases, focused bug fixes, responsive improvements, API integrations and practical features that solve real problems.
+My strongest focus is working on existing products: reproducing issues, finding the cause, implementing focused fixes or features, testing the result and leaving the codebase easier to maintain.
 
 ---
 
-## What I work on
+## Current freelance focus
 
-- React and TypeScript web applications
-- Bug fixing and maintenance
-- Responsive websites and mobile usability
-- Supabase and PostgreSQL integrations
-- Authentication, forms and user-specific data
-- REST API integrations
-- Python and FastAPI backends
-- Dashboards and internal business tools
-- Website testing and QA
-- Basic web configuration and security checks
+- Web app bug fixing and maintenance
+- React and TypeScript feature work
+- Python / FastAPI backend work
+- REST API integrations and debugging
+- Supabase / PostgreSQL data flows
+- Authentication and authorization issues
+- Responsive and mobile usability fixes
+- Manual QA and regression testing
+- Security-minded web review, including OWASP-oriented checks, access control and Supabase RLS review
+- Small business tools and internal dashboards
 
 ---
 
@@ -35,10 +35,13 @@ I especially work on existing codebases, focused bug fixes, responsive improveme
 - Supabase
 - PostgreSQL
 - REST APIs
+- JSON
+- SQL
 - Git
 - GitHub
 - Vite
-- Vercel
+- Basic Node/npm
+- PowerShell and Linux terminal workflows
 
 ---
 
@@ -60,25 +63,44 @@ A responsive multi-page website built with HTML, CSS and JavaScript, including m
 
 ---
 
+## How I approach existing codebases
+
+I prefer focused, testable improvements over unnecessary rewrites.
+
+Typical workflow:
+
+1. Reproduce the problem
+2. Inspect the relevant code and data flow
+3. Identify the root cause
+4. Implement the smallest reliable fix or feature
+5. Test the affected workflow and likely regressions
+6. Document the change when useful
+
+---
+
 ## Portfolio
 
 More details and screenshots of my projects:
 
 [View my portfolio](https://github.com/nicolarigoni1993-cloud/portfolio)
 
+Live website:
+
+[I Rapaci di Eddy](https://irapacidieddy.com/)
+
 ---
 
 ## Availability
 
-Available for remote freelance and contract work, including:
+Available for **100% remote** freelance and contract work, especially:
 
 - Small bug fixes
 - Feature implementation
-- Website improvements
-- Web application development
-- API integrations
-- Business tools
-- Ongoing maintenance
+- Web application maintenance
+- API and database work
+- QA / regression testing
+- Security-minded web application review
+- Ongoing maintenance with flexible scheduling
 
 ---
 
