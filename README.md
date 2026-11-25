@@ -4,7 +4,7 @@ I'm a **Full-Stack Developer and Computer Engineering student** based in Italy.
 
 I build, improve and debug web applications, internal tools and digital products using **React, TypeScript, JavaScript, Supabase/PostgreSQL and Python/FastAPI**.
 
-My work has expanded beyond individual web features into larger product development: learning platforms, cross-platform productivity apps, internal business systems, AI-oriented applications and a Unity/C# life-simulation project.
+I'm also building **Ninth Slate**, an independent technology studio and product brand focused on software, AI, security and interactive digital experiences.
 
 ---
 
@@ -21,30 +21,29 @@ My work has expanded beyond individual web features into larger product developm
 - Manual QA and regression testing
 - GitHub Actions / CI and release-oriented verification
 - Security-minded web review in authorized environments
+- AI/RAG product architecture
+- Unity / C# interactive systems
 
 ---
 
-## Current major projects
+## Ninth Slate
 
-### Academy Learning
-A private commercial learning-platform project designed to guide learners from absolute beginner foundations toward technical autonomy.
+**Ninth Slate** is the brand under which I am organizing independent product development.
 
-Current work includes a 15-module / 180-lesson roadmap, four-language content, guided labs, projects, review systems, tutor-context architecture, privacy/authorization controls, AI/RAG learning modules and extensive automated QA.
+**Focus areas:**
+- Software
+- AI
+- Security
+- Interactive
 
-### Remember
-A React + TypeScript + Supabase productivity application for reminders, notes, appointments, shifts, finance and planning, with Capacitor-based mobile support and local notifications.
+Independent product names and private repositories are intentionally kept separate from my personal freelance profile while the brand structure is being established.
 
-### Business Management System
-A private Python / FastAPI browser-based operational system for schedules, staff workflows, training, documents and recurring business processes.
+---
 
-### Fitness AI App
-A React / TypeScript / Supabase fitness application with workout plans, meal planning, an AI-oriented assistant experience and cross-device conversation/action synchronization.
-
-### Valleverde
-A private Unity/C# 3D life-simulation game for Windows and Android, including persistent character state, world interactions, buildings, NPCs, vehicles, traffic and ongoing performance work.
+## Public client work
 
 ### I Rapaci di Eddy
-A responsive production website built with HTML, CSS and JavaScript.
+Responsive production website built with HTML, CSS and JavaScript.
 
 https://irapacidieddy.com/
 
@@ -57,7 +56,7 @@ https://irapacidieddy.com/
 **Data:** Supabase, PostgreSQL, SQL, JSON  
 **Mobile:** Capacitor, Android-oriented workflows  
 **Engineering:** Git, GitHub, GitHub Actions, QA, regression testing, PowerShell, Linux terminal  
-**Additional:** Unity, C#, security-minded web review, AI/RAG learning-system architecture
+**Additional:** Unity, C#, security-minded web review, AI/RAG architecture
 
 ---
 
