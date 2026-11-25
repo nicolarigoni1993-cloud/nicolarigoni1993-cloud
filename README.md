@@ -1,106 +1,99 @@
 # Hi, I'm Nicola Rigoni
 
-I'm a Web Developer and Computer Engineering student based in Italy.
+I'm a **Full-Stack Developer and Computer Engineering student** based in Italy.
 
-I build, improve and debug websites, web applications and practical business tools using React, TypeScript, JavaScript, Supabase, PostgreSQL, Python and FastAPI.
+I build, improve and debug web applications, internal tools and digital products using **React, TypeScript, JavaScript, Supabase/PostgreSQL and Python/FastAPI**.
 
-My strongest focus is working on existing products: reproducing issues, finding the cause, implementing focused fixes or features, testing the result and leaving the codebase easier to maintain.
+My work has expanded beyond individual web features into larger product development: learning platforms, cross-platform productivity apps, internal business systems, AI-oriented applications and a Unity/C# life-simulation project.
 
 ---
 
-## Current freelance focus
+## What I work on
 
-- Web app bug fixing and maintenance
-- React and TypeScript feature work
-- Python / FastAPI backend work
-- REST API integrations and debugging
+- React / TypeScript web applications
+- Python / FastAPI backends
+- REST API integrations
 - Supabase / PostgreSQL data flows
-- Authentication and authorization issues
-- Responsive and mobile usability fixes
+- Authentication, authorization and RLS
+- Responsive and mobile UX
+- Bug fixing and maintenance
+- Internal business tools and workflow automation
 - Manual QA and regression testing
-- Security-minded web review, including OWASP-oriented checks, access control and Supabase RLS review
-- Small business tools and internal dashboards
+- GitHub Actions / CI and release-oriented verification
+- Security-minded web review in authorized environments
+
+---
+
+## Current major projects
+
+### Academy Learning
+A private commercial learning-platform project designed to guide learners from absolute beginner foundations toward technical autonomy.
+
+Current work includes a 15-module / 180-lesson roadmap, four-language content, guided labs, projects, review systems, tutor-context architecture, privacy/authorization controls, AI/RAG learning modules and extensive automated QA.
+
+### Remember
+A React + TypeScript + Supabase productivity application for reminders, notes, appointments, shifts, finance and planning, with Capacitor-based mobile support and local notifications.
+
+### Business Management System
+A private Python / FastAPI browser-based operational system for schedules, staff workflows, training, documents and recurring business processes.
+
+### Fitness AI App
+A React / TypeScript / Supabase fitness application with workout plans, meal planning, an AI-oriented assistant experience and cross-device conversation/action synchronization.
+
+### Valleverde
+A private Unity/C# 3D life-simulation game for Windows and Android, including persistent character state, world interactions, buildings, NPCs, vehicles, traffic and ongoing performance work.
+
+### I Rapaci di Eddy
+A responsive production website built with HTML, CSS and JavaScript.
+
+https://irapacidieddy.com/
 
 ---
 
 ## Main technologies
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Python
-- FastAPI
-- Supabase
-- PostgreSQL
-- REST APIs
-- JSON
-- SQL
-- Git
-- GitHub
-- Vite
-- Basic Node/npm
-- PowerShell and Linux terminal workflows
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Vite  
+**Backend:** Python, FastAPI, REST APIs  
+**Data:** Supabase, PostgreSQL, SQL, JSON  
+**Mobile:** Capacitor, Android-oriented workflows  
+**Engineering:** Git, GitHub, GitHub Actions, QA, regression testing, PowerShell, Linux terminal  
+**Additional:** Unity, C#, security-minded web review, AI/RAG learning-system architecture
 
 ---
 
-## Featured projects
+## How I work
 
-### Remember – Productivity Web App
+I prefer focused, testable improvements over unnecessary rewrites:
 
-A productivity web application built with React, TypeScript and Supabase for managing reminders, notes, appointments, shifts, finance and personal planning.
-
-The production repository is private, while a public project overview is available in my portfolio.
-
-### Business Management System – Python / FastAPI
-
-An internal business management application built with Python and FastAPI to organize operational data, documents, schedules, staff information and recurring workflows.
-
-### I Rapaci di Eddy – Responsive Website
-
-A responsive multi-page website built with HTML, CSS and JavaScript, including mobile-friendly navigation, image galleries, content sections and production deployment.
-
----
-
-## How I approach existing codebases
-
-I prefer focused, testable improvements over unnecessary rewrites.
-
-Typical workflow:
-
-1. Reproduce the problem
-2. Inspect the relevant code and data flow
-3. Identify the root cause
-4. Implement the smallest reliable fix or feature
+1. Reproduce or define the problem
+2. Inspect code, API and data flow
+3. Identify the root cause or implementation path
+4. Implement the smallest reliable change
 5. Test the affected workflow and likely regressions
-6. Document the change when useful
+6. Verify responsive/mobile behavior where relevant
+7. Document and version the result clearly
+
+---
+
+## Freelance availability
+
+Available for **100% remote, part-time / flexible freelance and contract work**, especially:
+
+- Bug fixing
+- Feature implementation
+- Web application maintenance
+- API and database work
+- Internal tools
+- Responsive/mobile improvements
+- QA / regression testing
+- Security-minded application review
+- Fixed-scope development work
 
 ---
 
 ## Portfolio
 
-More details and screenshots of my projects:
-
-[View my portfolio](https://github.com/nicolarigoni1993-cloud/portfolio)
-
-Live website:
-
-[I Rapaci di Eddy](https://irapacidieddy.com/)
-
----
-
-## Availability
-
-Available for **100% remote** freelance and contract work, especially:
-
-- Small bug fixes
-- Feature implementation
-- Web application maintenance
-- API and database work
-- QA / regression testing
-- Security-minded web application review
-- Ongoing maintenance with flexible scheduling
+[View my public portfolio](https://github.com/nicolarigoni1993-cloud/portfolio)
 
 ---
 
